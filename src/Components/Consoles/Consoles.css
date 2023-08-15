@@ -1,0 +1,10 @@
+.consoles {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+
+.consoles img {
+    width: 200px;
+    height: 200px;
+}
